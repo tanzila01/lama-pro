@@ -1,0 +1,15 @@
+.nav-left{
+    flex: 1;
+    width: 33.3%;
+    background-color: aquamarine;
+    word-break: break-all;
+    white-space: pre-wrap;
+}
+.nav-cen{
+    flex: 1;
+    /* width: 33.3%; */
+}
+.nav-right{
+    flex: 1;
+    /* width: 33.3%; */
+}
